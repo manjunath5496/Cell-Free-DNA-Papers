@@ -8,7 +8,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(2).pdf" style="text-decoration:none;">Exploring genome wide bisulfite sequencing for DNA methylation analysis in livestock:a technical assessment</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(3).pdf" style="text-decoration:none;">Pipeline Overview</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(3).pdf" style="text-decoration:none;">Cell-free DNA (cfDNA): Clinical Significance and Utility in Cancer Shaped By Emerging Technologies</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(4).pdf" style="text-decoration:none;">DeconRNASeq: A Statistical Framework for
 Deconvolution of Heterogeneous Tissue Samples Based on mRNA-Seq data</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(5).pdf" style="text-decoration:none;">The dark side of circulating nucleic acids</a></li>
@@ -52,6 +52,20 @@ Its Origin and Fluctuation</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(25).pdf" style="text-decoration:none;">Concordance of Circulating Tumor DNA and Matched Metastatic Tissue Biopsy in Prostate Cancer</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(26).pdf" style="text-decoration:none;">BSMAP: whole genome bisulfite sequence MAPping program</a></li>
+  
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(27).pdf" style="text-decoration:none;">Cell‑free DNA in plasma
+as an essential immune system regulator</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(28).pdf" style="text-decoration:none;">Precision cell-free DNA extraction for liquid biopsy by integrated microfluidics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Free-DNA-Papers/blob/master/c(29).pdf" style="text-decoration:none;">Phenotypes from cell-free DNA</a></li> 
+  
+  
+  
+  
+  
+  
+  
+  
  </ul>
    
    
